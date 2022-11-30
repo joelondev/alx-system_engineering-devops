@@ -9,3 +9,4 @@ Contents of the files were created, edited with emacs text editor
 7. move file into directory
 8. delete file from directory
 9. delete directory
+10. move into previous directory
