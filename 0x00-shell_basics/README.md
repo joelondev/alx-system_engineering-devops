@@ -4,3 +4,5 @@
 4.
 5.list the long format in numerical order
 6. add new directory to the tmp folder
+7. move file into directory
+8. delete file from directory
