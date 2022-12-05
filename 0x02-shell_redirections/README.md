@@ -6,9 +6,9 @@ This readme files contains scripts for shell redirections
 4. displays the last 10 lines in /etc/passwd
 5. displays the first 10 lines in /etc/passwd
 6. displays the third line of the file iacta
-7.
-8.
-9.
+7. creates text file to display best school
+8. list contents of file and creating it at the same time
+9. duplicates the last line of the file iacta
 10.
 11.
 12.
