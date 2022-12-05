@@ -20,5 +20,5 @@ This readme files contains scripts for shell redirections
 18. display all lines in a file starting with a letter
 19. Replace all characters A and c from input to Z and e in respective order
 20. the script that removes all letters c and C from input.
-21.
+21. the script reverses its input
 22.
