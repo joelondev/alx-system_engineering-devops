@@ -21,4 +21,4 @@ This readme files contains scripts for shell redirections
 19. Replace all characters A and c from input to Z and e in respective order
 20. the script that removes all letters c and C from input.
 21. the script reverses its input
-22.
+22. the script that displays all users and their home directories, sorted by users
