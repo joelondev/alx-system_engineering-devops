@@ -5,7 +5,7 @@ This readme files contains scripts for shell redirections
 3. displays content in /etc/passwd and /etc/hosts
 4. displays the last 10 lines in /etc/passwd
 5. displays the first 10 lines in /etc/passwd
-6.
+6. displays the third line of the file iacta
 7.
 8.
 9.
