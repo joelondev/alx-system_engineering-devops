@@ -24,3 +24,6 @@ This readme files contains scripts for shell redirections
 22. the script that displays all users and their home directories, sorted by users
 
 23. finds all empty files and directories in current directory and sub-directories
+24. the script that lists all the files with a .gif extension in the current directory and all its sub-directories
+25.
+26. 
