@@ -22,3 +22,5 @@ This readme files contains scripts for shell redirections
 20. the script that removes all letters c and C from input.
 21. the script reverses its input
 22. the script that displays all users and their home directories, sorted by users
+
+23. finds all empty files and directories in current directory and sub-directories
