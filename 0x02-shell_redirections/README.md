@@ -13,7 +13,7 @@ This readme files contains scripts for shell redirections
 11. script counts the number of directories and sub-directories
 12. displays newest files in the directory
 13. sort uniques words
-14.
+14. display lines that contain the words root in a file
 15.
 16.
 17.
