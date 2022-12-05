@@ -16,7 +16,7 @@ This readme files contains scripts for shell redirections
 14. display lines that contain the words root in a file
 15. display the number of lines that contain the pattern 'bin'
 16. display files that contain the pattern root and 3 lines after them in a file
-17.
+17. display all the lines in the file /etc/passwd that do not contain 'bin'
 18.
 19.
 20.
