@@ -19,6 +19,6 @@ This readme files contains scripts for shell redirections
 17. display all the lines in the file /etc/passwd that do not contain 'bin'
 18. display all lines in a file starting with a letter
 19. Replace all characters A and c from input to Z and e in respective order
-20.
+20. the script that removes all letters c and C from input.
 21.
 22.
