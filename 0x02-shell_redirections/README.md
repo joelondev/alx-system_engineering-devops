@@ -15,7 +15,7 @@ This readme files contains scripts for shell redirections
 13. sort uniques words
 14. display lines that contain the words root in a file
 15. display the number of lines that contain the pattern 'bin'
-16.
+16. display files that contain the pattern root and 3 lines after them in a file
 17.
 18.
 19.
