@@ -3,8 +3,8 @@ This readme files contains scripts for shell redirections
 1. displays confused smiley
 2. displays content in /etc/passwd file
 3. displays content in /etc/passwd and /etc/hosts
-4.
-5.
+4. displays the last 10 lines in /etc/passwd
+5. displays the first 10 lines in /etc/passwd
 6.
 7.
 8.
