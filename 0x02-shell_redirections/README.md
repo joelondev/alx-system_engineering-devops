@@ -9,8 +9,8 @@ This readme files contains scripts for shell redirections
 7. creates text file to display best school
 8. list contents of file and creating it at the same time
 9. duplicates the last line of the file iacta
-10.
-11.
+10. delete all js files
+11. script counts the number of directories and sub-directories
 12.
 13.
 14.
