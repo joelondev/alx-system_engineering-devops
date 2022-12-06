@@ -1,0 +1,1 @@
+This file contains the shell commands and operations for variables
