@@ -13,8 +13,8 @@ frontend joelondev.tech
 
 backend web_servers
         balance roundrobin
-        server 193292-web-01 54.152.134.145:80
-        server 193292-web-02 34.229.189.40:80
+        server 193292-web-01 54.152.134.145:80 check
+        server 193292-web-02 34.229.189.40:80 check
 ' >> /etc/haproxy/haproxy.cfg
 
 # Restart HAproxy service
